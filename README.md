@@ -1,51 +1,96 @@
+
 # RCHMT.ID
-# 👋 Hi, I'm RCHMT
 
-### AI Enthusiast | Digital Creator | Aspiring Developer
+### AI Developer & Digital Creator
+**Building Ideas Into Intelligent Solutions.**
 
-Welcome to my GitHub profile!
+Welcome to my GitHub! 👋
 
-I'm **RCHMT**, a digital creator passionate about technology, artificial intelligence, web development, and creative digital solutions.
+I'm RCHMT, an AI enthusiast and digital creator from Indonesia. I focus on exploring artificial intelligence, developing useful digital tools, and transforming creative ideas into real-world digital products.
 
-I enjoy exploring new technologies and building projects that combine creativity, automation, and AI.
+Selamat datang di GitHub saya!
 
-### 🚀 About Me
-
-- 🤖 Exploring Artificial Intelligence and AI-powered tools.
-- 💻 Building web applications and digital projects.
-- 🎬 Developing **RCHMT Clipper AI**.
-- 🎨 Interested in digital design and creative technology.
-- 📚 Continuously learning and improving my development skills.
-- 🌐 Building digital products under **RCHMT.ID**.
-
-### 🛠️ Current Projects
-
-**RCHMT Clipper AI**
-An AI-powered video clipping project focused on transforming long-form videos into engaging short-form content.
-
-**MASTER PROMPT RUMAH INDONESIA**
-A digital product featuring professional and realistic architectural design prompts.
-
-### 🎯 My Interests
-
-- Artificial Intelligence
-- Web Development
-- Automation
-- Content Creation
-- UI/UX Design
-- Digital Products
-- Creative Technology
-
-### 📫 Connect With Me
-
-- Instagram: [@rchmt.id](https://instagram.com/rchmt.id)
-- TikTok: [Follow Me](https://www.tiktok.com/@l.e.m.o.n.l.y.x)
-- Email: adenz.rachmat@gmail.com
+Saya adalah AI enthusiast dan digital creator dari Indonesia yang tertarik mengembangkan teknologi AI, aplikasi web, otomatisasi, serta produk digital yang inovatif dan bermanfaat.
 
 ---
 
-### 💡 My Philosophy
+## 👨‍💻 About Me | Tentang Saya
 
-"Keep learning, keep building, and turn ideas into reality."
+- 🤖 Exploring Artificial Intelligence & AI Development.
+- 💻 Building web applications and intelligent digital tools.
+- 🎬 Developing AI-powered content creation tools.
+- ⚙️ Interested in automation and creative technology.
+- 🎨 Creating digital products and innovative solutions.
+- 🌱 Always learning, experimenting, and building.
 
-**Made with passion by RCHMT.ID** 🚀
+**My Mission:**
+Turning ideas into practical technology and making digital innovation accessible to everyone.
+
+**Misi Saya:**
+Mengubah ide kreatif menjadi solusi teknologi yang nyata, bermanfaat, dan mudah digunakan.
+
+---
+
+## 🚀 Featured Projects | Proyek Unggulan
+
+### 🎬 RCHMT Clipper AI
+An AI-powered video clipping project designed to help creators transform long-form videos into engaging short-form content.
+
+Proyek pengembangan aplikasi AI untuk membantu kreator menghasilkan konten video pendek dari video berdurasi panjang.
+
+### 🏠 MASTER PROMPT RUMAH INDONESIA
+A digital product featuring detailed and realistic architectural design prompts for Indonesian home designs.
+
+Produk digital berisi kumpulan prompt profesional untuk menghasilkan konsep desain rumah yang realistis dan inspiratif.
+
+---
+
+## 🧠 Areas of Interest | Bidang yang Saya Tekuni
+
+| Category | Focus |
+|---|---|
+| Artificial Intelligence | AI Tools & AI Applications |
+| Development | Web Applications |
+| Automation | Intelligent Workflows |
+| Content Technology | AI Video Creation |
+| Digital Products | Digital Innovation |
+| Creative Technology | Design & Creativity |
+
+---
+
+## 🛠️ Currently Exploring
+
+- Artificial Intelligence
+- AI-powered applications
+- Web development
+- Workflow automation
+- Modern UI/UX
+- Digital product development
+
+---
+
+## 🌐 Connect With Me
+
+Let's connect, collaborate, and build something meaningful!
+
+- Instagram: [@rchmt.id](https://instagram.com/rchmt.id)
+- TikTok: [@l.e.m.o.n.l.y.x](https://www.tiktok.com/@l.e.m.o.n.l.y.x)
+- Email: [Contact Me](mailto:adenz.rachmat@gmail.com)
+
+---
+
+## 💡 My Philosophy
+
+> "Dream it. Build it. Improve it. Make it real."
+
+Learn continuously. Build consistently. Create meaningful impact.
+
+---
+
+<p align="center">
+  **RCHMT.ID**
+  <br>
+  AI Developer & Digital Creator
+  <br>
+  Made in Indonesia 🇮🇩
+</p>
